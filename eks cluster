@@ -17,7 +17,7 @@ You should have these installed and configured:
       --region us-east-1 \
       --version 1.32 \
       --nodegroup-name standard-workers \
-      --node-type t3.medium \
+      --node-type t3.small \
       --nodes 2 \
       --nodes-min 1 \
       --nodes-max 3 \
